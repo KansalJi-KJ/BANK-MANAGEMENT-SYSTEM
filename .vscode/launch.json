@@ -1,0 +1,93 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BalanceEnquiry",
+            "request": "launch",
+            "mainClass": "bank.management.systems.BalanceEnquiry",
+            "projectName": "bank management systems_8754a82c"
+        },
+        {
+            "type": "java",
+            "name": "Deposit",
+            "request": "launch",
+            "mainClass": "bank.management.systems.Deposit",
+            "projectName": "bank management systems_8754a82c"
+        },
+        {
+            "type": "java",
+            "name": "FastCash",
+            "request": "launch",
+            "mainClass": "bank.management.systems.FastCash",
+            "projectName": "bank management systems_8754a82c"
+        },
+        
+        {
+            "type": "java",
+            "name": "MiniStatement",
+            "request": "launch",
+            "mainClass": "bank.management.systems.MiniStatement",
+            "projectName": "bank management systems_8754a82c"
+        },
+        {
+            "type": "java",
+            "name": "PinChange",
+            "request": "launch",
+            "mainClass": "bank.management.systems.PinChange",
+            "projectName": "bank management systems_8754a82c"
+        },
+        {
+            "type": "java",
+            "name": "SignupOne",
+            "request": "launch",
+            "mainClass": "bank.management.systems.SignupOne",
+            "projectName": "bank management systems_8754a82c"
+        },
+        {
+            "type": "java",
+            "name": "SignupThree",
+            "request": "launch",
+            "mainClass": "bank.management.systems.SignupThree",
+            "projectName": "bank management systems_8754a82c"
+        },
+        {
+            "type": "java",
+            "name": "SignupTwo",
+            "request": "launch",
+            "mainClass": "bank.management.systems.SignupTwo",
+            "projectName": "bank management systems_8754a82c"
+        },
+        {
+            "type": "java",
+            "name": "Transactions",
+            "request": "launch",
+            "mainClass": "bank.management.systems.Transactions",
+            "projectName": "bank management systems_8754a82c"
+        },
+        {
+            "type": "java",
+            "name": "Login",
+            "request": "launch",
+            "mainClass": "bank.management.systems.Login",
+            "projectName": "bank management systems_8754a82c"
+        },
+        {
+            "type": "java",
+            "name": "Withdrawl",
+            "request": "launch",
+            "mainClass": "bank.management.systems.Withdrawl",
+            "projectName": "bank management systems_8754a82c"
+        }
+    ]
+}
